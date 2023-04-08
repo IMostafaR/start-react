@@ -1,0 +1,10 @@
+.line {
+  height: 5px;
+  width: 8rem;
+  border-radius: 5px;
+  /* background-color: white; */
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
