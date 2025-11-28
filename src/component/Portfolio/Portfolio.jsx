@@ -4,7 +4,7 @@ import styles from "./Portfolio.module.css";
 import { images } from "../../images";
 
 export default function Portfolio() {
-  function displayImg() {}
+
   return (
     <>
       <section className="min-vh-100">
